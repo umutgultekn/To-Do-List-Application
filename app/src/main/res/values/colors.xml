@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#4B0082</color>
+<!--    <color name="colorAccent">#5900D3</color>-->
+    <color name="colorAccent">#008577</color>
+    <color name="purpleDark1">#0C0032</color>
+    <color name="purpleDark2">#190061</color>
+    <color name="purpleDark3">#240090</color>
+    <color name="purpleDark4">#3500D3</color>
+    <color name="purpleDark5">#282828</color>
+    <color name="purpleDark6">#3900D3</color>
+    <color name="purpleDark7">#4B0082</color>
+    <color name="darkyellow">#CCCC00</color>
+    <color name="white">#FFFFFF</color>
+</resources>
